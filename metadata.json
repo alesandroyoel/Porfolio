@@ -1,0 +1,6 @@
+{
+  "name": "Augmented Self — Cyberpunk Hero Experience",
+  "description": "Cybernetic and biotech exploration hero interface with interactive spotlight reveal, telemetry arcs, and responsive HUD navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
