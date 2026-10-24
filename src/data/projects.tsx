@@ -534,7 +534,8 @@ export const PROJECTS: ProjectItem[] = [
       'End-to-end analytics with PostgreSQL analysis queries, a star-schema data warehouse with SQL ETL, and a Power BI dashboard for shipment operations and cost.',
     category: 'Data Engineering & Business Intelligence',
     tags: ['PostgreSQL', 'SQL ETL', 'Star Schema', 'Power BI', 'DAX'],
-    link: 'https://github.com/alesandroyoel/Logistics-Shipment-Analytics',
+    // Primary external link: Power BI Logistics Shipment Analytics Dashboard
+    link: 'https://app.powerbi.com/view?r=eyJrIjoiZWExOTJiOWEtYTBhNS00OWQzLTlmOTctYzhhNjFhNDYxYTU1IiwidCI6IjFkNTE2OWFjLWM3Y2ItNDI3NS05NzY0LWJmOGM5YzM2NGE0YyIsImMiOjEwfQ%3D%3D',
     githubUrl: 'https://github.com/alesandroyoel/Logistics-Shipment-Analytics',
     imageUrl: '/assets/aistudio/image_2b63cf85.png',
     isFeatured: true,
@@ -549,7 +550,8 @@ export const PROJECTS: ProjectItem[] = [
       'Healthcare analytics dashboard tracking clinical readmission probabilities, length of stay, and patient demographics for diabetes care.',
     category: 'Healthcare Business Intelligence',
     tags: ['Power BI', 'Healthcare BI', 'DAX', 'Statistics'],
-    link: 'https://app.powerbi.com/groups/me/reports/cdb10212-907d-4ca6-bc72-5d907ea2ed48/d6e66cc0c60110b99211?experience=power-bi',
+    // Primary external link: Power BI Hospital Readmission Analytics Dashboard
+    link: 'https://app.powerbi.com/view?r=eyJrIjoiMDY2ZDI3YjctOTgxZC00MTIzLWFiNzEtMmUxZjI1MzEyOWRjIiwidCI6IjFkNTE2OWFjLWM3Y2ItNDI3NS05NzY0LWJmOGM5YzM2NGE0YyIsImMiOjEwfQ%3D%3D',
     imageUrl: '/assets/aistudio/image_05c169dd.png',
     isFeatured: true,
     preview: <HospitalPreview />,
@@ -591,7 +593,8 @@ export const PROJECTS: ProjectItem[] = [
       'Commercial retail intelligence dashboard evaluating regional sales volume, profit margins, and apparel revenue trends.',
     category: 'Commercial Business Intelligence',
     tags: ['Power BI', 'Retail Analytics', 'DAX', 'KPIs'],
-    link: 'https://app.powerbi.com/groups/me/reports/88977b60-d0bf-462e-8165-05bec4d8778c/6ba5957a7e2db65ff33c?experience=power-bi',
+    // Primary external link: Power BI Adidas Retail Performance Dashboard
+    link: 'https://app.powerbi.com/view?r=eyJrIjoiOWYxYmY5YTctNjcxNy00OTA1LTg2NzYtYjdhZGJlNmM1NGVkIiwidCI6IjFkNTE2OWFjLWM3Y2ItNDI3NS05NzY0LWJmOGM5YzM2NGE0YyIsImMiOjEwfQ%3D%3D',
     imageUrl: '/assets/aistudio/image_dde5c097.png',
     preview: <AdidasPreview />,
   },
